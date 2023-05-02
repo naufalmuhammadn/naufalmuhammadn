@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Muhammad Naufal, and I am a second-year student at the Bandung Institute of Technology, majoring in Information and System Technology. I have always been fascinated by technology and how it works, especially the back-end aspect of it.
+Hi, my name is Muhammad Naufal, and I am a second-year student at Bandung Institute of Technology, majoring in Information and System Technology. I have always been fascinated by technology and how it works, especially the back-end aspect of it.
 
 
 ## 🌐 Socials:
